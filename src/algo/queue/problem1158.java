@@ -8,7 +8,7 @@ import java.util.Scanner;
 // 280240KB	548ms
 public class problem1158 {
 	
-	// 7 3
+	// 7 3 . 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
