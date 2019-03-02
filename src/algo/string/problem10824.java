@@ -15,7 +15,7 @@ public class problem10824 {
         String A = String.valueOf(a);
         String B = String.valueOf(b);
         String C = String.valueOf(c);
-        String D = String.valueOf(d);
+        String D = String.valueOf(d);  
         
         long num1 = Long.valueOf(A += B);
         long num2 = Long.valueOf(C += D);
