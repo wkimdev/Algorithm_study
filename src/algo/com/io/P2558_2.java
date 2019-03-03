@@ -2,15 +2,16 @@ package algo.com.io;
 
 import java.util.Scanner;
 
-public class P1000 {
-	
+public class P2558_2 {
+
 	public static void main(String[] args) {
-		// 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
 		Scanner sc = new Scanner(System.in);
+		// 엔터를 인식해야해 
+		// 엔터, 그리고 다음줄 읽기..
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		System.out.print(a+b);
+		System.out.println(a+b);
+		
 	}
-	
-	
+
 }
