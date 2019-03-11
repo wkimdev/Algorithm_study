@@ -3,7 +3,7 @@ package algo.string;
 import java.util.Scanner;
 
 // 14392KB	104ms
-public class problem10824 {
+public class problem10824 { .  
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
