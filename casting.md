@@ -5,6 +5,14 @@
 double avg = (double)sum/10; (int --> double)
   
 ```
+# 계산기 만들기~  
+ Scanner sc = new Scanner(System.in);
+       
+ int a = sc.nextInt();  
+ int b = sc.nextInt(); 
+
+ double c = (double)a/b;
+       
 System.out.println(a+ " + "+b+" : "+(a+b));
 System.out.println(a+ " - "+b+" : "+(a-b));
 System.out.println(a+ " * "+b+" : "+(a*b));
